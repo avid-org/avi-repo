@@ -1,8 +1,8 @@
 repo_name: avid-org/avi-repo
-report_id: aa7c8f5025cfe89509224ba4e183ba05
+report_id: 64a24325846129abac4d29edbe1fc4c2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-03T11:09:44+00:00'
+timestamp: '2024-01-10T14:10:32+00:00'
 requested_by: dabhi1123
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/avid-org/avi-repo/blob/main/package.json
   detection_source: package.json
   last_updated_by: dabhi1123
   last_updated_on: 2023-12-07 13:39:18.000000000 Z
@@ -28,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/avid-org/avi-repo
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/avid-org/avi-repo/blob/main/package.json
   detection_source: package.json
   last_updated_by: dabhi1123
   last_updated_on: 2023-12-07 13:39:18.000000000 Z
@@ -73,6 +76,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source_url: https://github.com/avid-org/avi-repo/blob/main/package.json
   detection_source: package.json
   last_updated_by: dabhi1123
   last_updated_on: 2023-12-07 13:39:18.000000000 Z
@@ -84,6 +88,7 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source_url: https://github.com/avid-org/avi-repo/blob/main/package.json
   detection_source: package.json
   last_updated_by: dabhi1123
   last_updated_on: 2023-12-07 13:39:18.000000000 Z
